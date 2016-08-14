@@ -1,7 +1,7 @@
 <resources>
     <string name="app_name">View Pager Data Update</string>
         <string name="large_text">
-        "Material is the metaphor.\n\n"
+        "Material is the metaphor.   \n%1$s \n\n"
 
         "A material metaphor is the unifying theory of a rationalized space and a system of motion."
         "The material is grounded in tactile reality, inspired by the study of paper and ink, yet "
@@ -14,7 +14,7 @@
         "interact, and exist in space and in relation to each other. Realistic lighting shows "
         "seams, divides space, and indicates moving parts.\n\n"
 
-        "Bold, graphic, intentional.\n\n"
+        "Bold, graphic, intentional.   \n%1$s \n\n"
 
         "The foundational elements of print based design typography, grids, space, scale, color, "
         "and use of imagery guide visual treatments. These elements do far more than please the "
@@ -24,7 +24,7 @@
         "An emphasis on user actions makes core functionality immediately apparent and provides "
         "waypoints for the user.\n\n"
 
-        "Motion provides meaning.\n\n"
+        "Motion provides meaning.   \n%1$s \n\n"
 
         "Motion respects and reinforces the user as the prime mover. Primary user actions are "
         "inflection points that initiate motion, transforming the whole design.\n"
@@ -33,7 +33,7 @@
         "Motion is meaningful and appropriate, serving to focus attention and maintain continuity. "
         "Feedback is subtle yet clear. Transitions are efﬁcient yet coherent.\n\n"
 
-        "3D world.\n\n"
+        "3D world.   \n%1$s \n\n"
 
         "The material environment is a 3D space, which means all objects have x, y, and z "
         "dimensions. The z-axis is perpendicularly aligned to the plane of the display, with the "
@@ -42,7 +42,7 @@
         "On the web, the z-axis is used for layering and not for perspective. The 3D world is "
         "emulated by manipulating the y-axis.\n\n"
 
-        "Light and shadow.\n\n"
+        "Light and shadow.   \n%1$s \n\n"
 
         "Within the material environment, virtual lights illuminate the scene. Key lights create "
         "directional shadows, while ambient light creates soft shadows from all angles.\n"
@@ -51,20 +51,20 @@
         "various positions along the z-axis. On the web, shadows are depicted by manipulating the "
         "y-axis only. The following example shows the card with a height of 6dp.\n\n"
 
-        "Resting elevation.\n\n"
+        "Resting elevation.   \n%1$s \n\n"
 
         "All material objects, regardless of size, have a resting elevation, or default elevation "
         "that does not change. If an object changes elevation, it should return to its resting "
         "elevation as soon as possible.\n\n"
 
-        "Component elevations.\n\n"
+        "Component elevations.   \n%1$s \n\n"
 
         "The resting elevation for a component type is consistent across apps (e.g., FAB elevation "
         "does not vary from 6dp in one app to 16dp in another app).\n"
         "Components may have different resting elevations across platforms, depending on the depth "
         "of the environment (e.g., TV has a greater depth than mobile or desktop).\n\n"
 
-        "Responsive elevation and dynamic elevation offsets.\n\n"
+        "Responsive elevation and dynamic elevation offsets.   \n%1$s \n\n"
 
         "Some component types have responsive elevation, meaning they change elevation in response "
         "to user input (e.g., normal, focused, and pressed) or system events. These elevation "
@@ -76,7 +76,7 @@
         "Once the input event is completed or cancelled, the component will return to its resting "
         "elevation.\n\n"
 
-        "Avoiding elevation interference.\n\n"
+        "Avoiding elevation interference.   \n%1$s \n\n"
 
         "Components with responsive elevations may encounter other components as they move between "
         "their resting elevations and dynamic elevation offsets. Because material cannot pass "
